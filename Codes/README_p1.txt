@@ -35,5 +35,5 @@ In this folder there are three programs to solve linear systems. We suppose to c
 	* q: number of time you loop's repetitions;
 	In this case you can print the numerical solution and the running time.
 
-All the programs are developed to end if t*n isn't an integer (you aren't discretizing the interval (0,1)) OR t<0 OR q<0 OR n<0.
+All the programs are developed to end if s*n isn't an integer (you aren't discretizing the interval (0,1)) OR s<0 OR q<0 OR n<0.
 	
