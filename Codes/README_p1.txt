@@ -4,8 +4,8 @@ In this folder there are three programs to solve linear systems. We suppose to c
 		* n: number of initial points;
 		* s: step to increase the number of points at the end of the loop by: n=s*n (if the product of n*s is too big it could lead to an overflow)
 		* q: numbers of loop's repetitions;
-		* aa: value of the lower diagonal elements of A
 		* bb: value of the diagonal elements of A
+		* aa: value of the lower diagonal elements of A
 		* cc: value of the upper diagonal elements of A
 
 	Example: do you want to solve Poisson equation with n=1000 ? 
